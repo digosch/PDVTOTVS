@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\TPDV.deps.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\TPDV.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\TPDV.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\TPDV.dll
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\obj\Debug\netcoreapp2.0\TPDV.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\obj\Debug\netcoreapp2.0\TPDV.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\bin\Debug\netcoreapp2.0\TPDV.pdb
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\obj\Debug\netcoreapp2.0\TPDV.dll
+C:\Users\Rodrigo\source\repos\TPDV\TPDV\obj\Debug\netcoreapp2.0\TPDV.pdb
